@@ -248,4 +248,6 @@ MIT — see `LICENSE`.
 
 ## Citation
 
-If you use **ezprocess** in academic work, please cite this repository and include library version (`ezprocess==0.1.0`).
+If you use **ezprocess**, please cite it using the following reference (APA):
+
+> Blay, J., & Agboola, G. (2025). *ezprocess library (v0.1.0)*. doi: [https://doi.org/10.5281/zenodo.17154394](https://doi.org/10.5281/zenodo.17154394). Retrieved from [https://github.com/Jeffreyblay/ezprocess_library](https://github.com/Jeffreyblay/ezprocess_library)
